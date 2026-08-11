@@ -7,3 +7,6 @@
 [submodule "Kruskal"]
 	path = Kruskal
 	url = https://github.com/Mulberick/Kruskal
+[submodule "Laberinto_del_Tesoro"]
+	path = Laberinto_del_Tesoro
+	url = https://github.com/Mulberick/Laberinto_del_Tesoro
