@@ -4,3 +4,6 @@
 [submodule "Algoritmos_ordenamiento"]
 	path = Algoritmos_ordenamiento
 	url = https://github.com/ErickDal448/Algoritmos_ordenamiento
+[submodule "Kruskal"]
+	path = Kruskal
+	url = https://github.com/Mulberick/Kruskal
