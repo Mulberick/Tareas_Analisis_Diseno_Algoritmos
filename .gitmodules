@@ -10,3 +10,6 @@
 [submodule "Laberinto_del_Tesoro"]
 	path = Laberinto_del_Tesoro
 	url = https://github.com/Mulberick/Laberinto_del_Tesoro
+[submodule "Prim"]
+	path = Prim
+	url = https://github.com/Mulberick/Prim
