@@ -25,3 +25,6 @@
 [submodule "Grep"]
 	path = Grep
 	url = https://github.com/Mulberick/Grep.git
+[submodule "Knapsack"]
+	path = Knapsack
+	url = https://github.com/Mulberick/Knapsack
