@@ -19,3 +19,6 @@
 [submodule "Dijkstra"]
 	path = Dijkstra
 	url = https://github.com/Mulberick/Dijkstra
+[submodule "Fibonacci"]
+	path = Fibonacci
+	url = https://github.com/Mulberick/Fibonacci
