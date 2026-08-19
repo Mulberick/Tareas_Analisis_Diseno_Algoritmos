@@ -13,3 +13,6 @@
 [submodule "Prim"]
 	path = Prim
 	url = https://github.com/Mulberick/Prim
+[submodule "Metodos_de_busqueda"]
+	path = Metodos_de_busqueda
+	url = https://github.com/Mulberick/Metodos_de_busqueda_en_grafos
