@@ -28,3 +28,6 @@
 [submodule "Knapsack"]
 	path = Knapsack
 	url = https://github.com/Mulberick/Knapsack
+[submodule "LCSS"]
+	path = LCSS
+	url = https://github.com/Mulberick/Longest_common_subsequence
