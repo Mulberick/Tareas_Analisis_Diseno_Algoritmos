@@ -31,3 +31,6 @@
 [submodule "LCSS"]
 	path = LCSS
 	url = https://github.com/Mulberick/Longest_common_subsequence
+[submodule "StringMatching"]
+	path = StringMatching
+	url = https://github.com/Mulberick/String_Matching
