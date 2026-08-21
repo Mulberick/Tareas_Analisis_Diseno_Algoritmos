@@ -1,9 +1,9 @@
 [submodule "Proyecto_Huffman"]
 	path = Proyecto_Huffman
-	url = https://github.com/ErickDal448/Proyecto_Huffman
+	url = https://github.com/Mulberick/Proyecto_Huffman
 [submodule "Algoritmos_ordenamiento"]
 	path = Algoritmos_ordenamiento
-	url = https://github.com/ErickDal448/Algoritmos_ordenamiento
+	url = https://github.com/Mulberick/Algoritmos_ordenamiento
 [submodule "Kruskal"]
 	path = Kruskal
 	url = https://github.com/Mulberick/Kruskal
